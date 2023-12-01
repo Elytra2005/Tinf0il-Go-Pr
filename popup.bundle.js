@@ -9029,13 +9029,13 @@
                     children: r ? lt(Dt, {
                         href: "https://discord.gg/aluminum",
                         target: "_blank",
-                        children: "Please send us your feedback to help us improve!"
+                        children: "Join the Aluminum Depot Discord:"
                     }) : ot(e.Fragment, {
                         children: [lt(Ot, {
                             sx: {
                                 mr: "8px"
                             },
-                            children: "Rate us:",
+                            children: "Join the Aluminum Depot Discord:",
                             href: "https://discord.gg/aluminum"
                         }),]
                     })
@@ -9524,7 +9524,7 @@
                             },
                             children: [lt("img", {
                                 src: Jt,
-                                alt: "Browser Boost logo",
+                                alt: "Tinf0il logo",
                                 height: "20",
                                 width: "20"
                             }), lt(Ot, {

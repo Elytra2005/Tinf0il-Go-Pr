@@ -1,10 +1,9 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
-    "name": "__MSG_chromeName__",
-    "description": "__MSG_chromeDesc__",
+    "name": "Tinf0il Go",
+    "description": "Tinf0il Go is a browser extension that allows you to search the web freely without disruption",
     "manifest_version": 3,
-    "version": "1.1.2",
-    "default_locale": "en",
+    "version": "1.0.0",
     "permissions": [
         "tabCapture",
         "offscreen",
