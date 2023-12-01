@@ -9026,18 +9026,10 @@
                         alignItems: "center",
                         justifyContent: "center"
                     },
-                    children: r ? lt(Dt, {
+                    children: lt(Dt, {
                         href: "https://discord.gg/aluminum",
                         target: "_blank",
-                        children: "Join the Aluminum Depot Discord:"
-                    }) : ot(e.Fragment, {
-                        children: [lt(Ot, {
-                            sx: {
-                                mr: "8px"
-                            },
-                            children: "Join the Aluminum Depot Discord:",
-                            href: "https://discord.gg/aluminum"
-                        }),]
+                        children: "Join the Aluminum Depot Discord"
                     })
                 })
             },
