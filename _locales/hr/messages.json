@@ -1,0 +1,10 @@
+{
+  "chromeName": { "message": "Browser Boost - Dodatni Alati Za Chrome" },
+  "edgeName": { "message": "Browser Boost - Dodatni Alati Za Edge" },
+  "chromeDesc": {
+    "message": "Povećaj glasnoću, promijeni korisničkog agenta, omogući desni klik, kopiraj i odaberi, onemogući WebRTC i spremi sliku kao vrstu (JPG, PNG i WebP)."
+  },
+  "edgeDesc": {
+    "message": "Povećaj glasnoću, promijeni korisničkog agenta, omogući desni klik, kopiraj i odaberi, onemogući WebRTC i spremi sliku kao vrstu (JPG, PNG i WebP)."
+  }
+}

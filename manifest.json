@@ -1,0 +1,40 @@
+{
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "name": "__MSG_chromeName__",
+    "description": "__MSG_chromeDesc__",
+    "manifest_version": 3,
+    "version": "1.1.2",
+    "default_locale": "en",
+    "permissions": [
+        "tabCapture",
+        "offscreen",
+        "storage",
+        "privacy",
+        "webNavigation",
+        "scripting",
+        "downloads",
+        "contextMenus",
+        "declarativeNetRequestWithHostAccess"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "background.bundle.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "128": "icon128.png"
+    },
+    "declarative_net_request": {
+        "rule_resources": [
+            {
+                "id": "ruleset_1",
+                "enabled": true,
+                "path": "rules.json"
+            }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "chromeName": {
+    "message": "Browser Boost - Papildomi įrankiai, skirti Chrome"
+  },
+  "edgeName": { "message": "Browser Boost - Papildomi įrankiai, skirti Edge" },
+  "chromeDesc": {
+    "message": "Padidinkite garsumą, pakeiskite vartotojo agentą, įgalinkite dešinįjį spustelėjimą, kopijuokite ir pasirinkite, išjunkite „WebRTC“ ir išsaugokite vaizdą kaip tipą (JPG, PNG ir WebP)."
+  },
+  "edgeDesc": {
+    "message": "Padidinkite garsumą, pakeiskite vartotojo agentą, įgalinkite dešinįjį spustelėjimą, kopijuokite ir pasirinkite, išjunkite „WebRTC“ ir išsaugokite vaizdą kaip tipą (JPG, PNG ir WebP)."
+  }
+}
