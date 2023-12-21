@@ -9053,7 +9053,7 @@
                 title: "START UNBLOCKING!",
                 values: [{
                     title: "ON",
-                    value: "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/%s Safari/537.36",
+                    value: "Mozilla/5.0 (X11; CrOS aarch64 13099.85.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4",
                     metadata: {
                         brands: [{
                             brand: "Not A;Brand",
